@@ -1,0 +1,88 @@
+16-Oct-26 7:29:27 PM	This log contains information about the import schema operation into project 'DbTest' on computer 'DMT010-16' by user 'Admin'.
+16-Oct-26 7:29:28 PM	Import of database schema has started.
+16-Oct-26 7:29:28 PM	Gathering database credentials
+16-Oct-26 7:29:28 PM	Gathering database options
+16-Oct-26 7:29:28 PM	Gathering generic database scoped configuration option
+16-Oct-26 7:29:28 PM	Gathering users
+16-Oct-26 7:29:28 PM	Gathering roles
+16-Oct-26 7:29:28 PM	Gathering application roles
+16-Oct-26 7:29:28 PM	Gathering role memberships
+16-Oct-26 7:29:28 PM	Gathering filegroups
+16-Oct-26 7:29:28 PM	Gathering full-text catalogs
+16-Oct-26 7:29:28 PM	Gathering assemblies
+16-Oct-26 7:29:28 PM	Gathering certificates
+16-Oct-26 7:29:28 PM	Gathering asymmetric keys
+16-Oct-26 7:29:28 PM	Gathering symmetric keys
+16-Oct-26 7:29:28 PM	Gathering encrypted symmetric keys
+16-Oct-26 7:29:28 PM	Gathering schemas
+16-Oct-26 7:29:28 PM	Gathering XML schema collections
+16-Oct-26 7:29:28 PM	Gathering user-defined data types
+16-Oct-26 7:29:28 PM	Gathering user-defined types
+16-Oct-26 7:29:28 PM	Gathering table types
+16-Oct-26 7:29:28 PM	Gathering unique keys for table types
+16-Oct-26 7:29:28 PM	Gathering primary keys for table types
+16-Oct-26 7:29:28 PM	Gathering indexes for table types
+16-Oct-26 7:29:28 PM	Gathering check constraints for table types
+16-Oct-26 7:29:28 PM	Gathering default constraints for table types
+16-Oct-26 7:29:28 PM	Gathering partition functions
+16-Oct-26 7:29:28 PM	Gathering partition schemes
+16-Oct-26 7:29:28 PM	Gathering functions
+16-Oct-26 7:29:28 PM	Gathering encrypted functions
+16-Oct-26 7:29:28 PM	Gathering aggregates
+16-Oct-26 7:29:28 PM	Gathering procedures
+16-Oct-26 7:29:28 PM	Gathering encrypted procedures
+16-Oct-26 7:29:28 PM	Gathering tables
+16-Oct-26 7:29:28 PM	Gathering primary keys
+16-Oct-26 7:29:28 PM	Gathering unique constraints
+16-Oct-26 7:29:28 PM	Gathering foreign keys
+16-Oct-26 7:29:28 PM	Gathering default constraints
+16-Oct-26 7:29:28 PM	Gathering check constraints
+16-Oct-26 7:29:28 PM	Gathering views
+16-Oct-26 7:29:28 PM	Gathering encrypted views
+16-Oct-26 7:29:28 PM	Gathering indexes
+16-Oct-26 7:29:28 PM	Gathering statistics
+16-Oct-26 7:29:28 PM	Gathering full-text index stoplists
+16-Oct-26 7:29:28 PM	Gathering search property lists
+16-Oct-26 7:29:28 PM	Gathering search properties
+16-Oct-26 7:29:28 PM	Gathering full-text indexes
+16-Oct-26 7:29:28 PM	Gathering column store indexes
+16-Oct-26 7:29:28 PM	Gathering spatial indexes
+16-Oct-26 7:29:28 PM	Gathering XML indexes
+16-Oct-26 7:29:28 PM	Gathering JSON indexes
+16-Oct-26 7:29:28 PM	Gathering Selective XML indexes
+16-Oct-26 7:29:28 PM	Gathering encrypted triggers
+16-Oct-26 7:29:28 PM	Gathering triggers
+16-Oct-26 7:29:28 PM	Gathering encrypted and clr ddl triggers
+16-Oct-26 7:29:28 PM	Gathering ddl triggers
+16-Oct-26 7:29:28 PM	Creating edge constraints
+16-Oct-26 7:29:28 PM	Gathering synonyms
+16-Oct-26 7:29:28 PM	Gathering defaults
+16-Oct-26 7:29:28 PM	Gathering data constraint uddt bindings
+16-Oct-26 7:29:28 PM	Gathering rules
+16-Oct-26 7:29:28 PM	Gathering data constraint uddt bindings
+16-Oct-26 7:29:28 PM	Gathering message types
+16-Oct-26 7:29:28 PM	Gathering queues
+16-Oct-26 7:29:28 PM	Gathering contracts
+16-Oct-26 7:29:28 PM	Gathering services
+16-Oct-26 7:29:28 PM	Gathering event notifications
+16-Oct-26 7:29:28 PM	Gathering remote service bindings
+16-Oct-26 7:29:28 PM	Gathering broker priorities
+16-Oct-26 7:29:28 PM	Gathering signatures
+16-Oct-26 7:29:28 PM	Gathering compression options
+16-Oct-26 7:29:28 PM	Gathering sequence types
+16-Oct-26 7:29:28 PM	Gathering security policies
+16-Oct-26 7:29:28 PM	Gather column encryption keys
+16-Oct-26 7:29:28 PM	Gathering column master keys
+16-Oct-26 7:29:28 PM	Gathering external data sources
+16-Oct-26 7:29:28 PM	Gathering external file formats
+16-Oct-26 7:29:28 PM	Gathering external models
+16-Oct-26 7:29:28 PM	Gathering external tables
+16-Oct-26 7:29:28 PM	Gathering XML index compression options
+16-Oct-26 7:29:28 PM	Gathering extended properties
+16-Oct-26 7:29:28 PM	Gathering assemblies
+16-Oct-26 7:29:28 PM	Gathering credentials
+16-Oct-26 7:29:28 PM	Gathering logins
+16-Oct-26 7:29:28 PM	Gathering server audits
+16-Oct-26 7:29:28 PM	Finished importing database.
+16-Oct-26 7:29:28 PM	A summary of the import was saved to the following location: D:\lab5\calculator\DbTest\Import Schema Logs\DbTest_20261016122927.log
+16-Oct-26 7:29:28 PM	Click Finish to continue...

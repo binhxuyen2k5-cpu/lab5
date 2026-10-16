@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="C:/Users/Admin/Downloads/CalculatorLab/CalculatorLab/Calculator/Calculator.csproj" />
+  <Project Path="C:/Users/Admin/Downloads/CalculatorLab/CalculatorLab/CalculatorTester/CalculatorTester.csproj" />
+  <Project Path="DbTest/DbTest.sqlproj" Id="ffafe000-60d7-4edd-b5f4-05243cf0e196">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
